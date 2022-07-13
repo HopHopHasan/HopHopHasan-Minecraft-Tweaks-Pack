@@ -1,0 +1,22 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:fog_settings": {
+      "description": {
+        "identifier": "betterfog:custom_fog_hills"
+      },
+      "distance": {
+      "air": {
+        "fog_start": 0.4,
+        "fog_end": 0.9,
+        "fog_color": "#8DC2FF", 
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 50.0,
+        "fog_color": "#44AFF5",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:fog_settings": {
+      "description": {
+        "identifier": "betterfog:custom_fog_stony_peaks"
+      },
+      "distance": {
+      "air": {
+        "fog_start": 0.3,
+        "fog_end": 1.0,
+        "fog_color": "#6EB1FF", 
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 50.0,
+        "fog_color": "#44AFF5",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

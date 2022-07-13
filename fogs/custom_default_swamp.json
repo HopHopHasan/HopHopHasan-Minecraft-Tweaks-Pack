@@ -1,0 +1,23 @@
+﻿{
+    "format_version": "1.16.100",
+    "minecraft:fog_settings": {
+      "description": {
+        "identifier": "betterfog:custom_fog_swamp"
+      },
+      "distance": {
+        "air": {
+        "fog_start": 0.2,
+        "fog_end": 0.6,
+        "fog_color": "#4C6559", 
+        "render_distance_type": "render"
+      },
+
+        "water": {
+        "fog_start": 0.0,
+        "fog_end": 8.0,
+        "fog_color": "#4C6559",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

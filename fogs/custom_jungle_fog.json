@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "betterfog:custom_fog_jungle"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0.5,
+        "fog_end": 0.85,
+        "fog_color": "#ABE5FF", 
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.1,
+        "fog_end": 15.0,
+        "fog_color": "#58D68D",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

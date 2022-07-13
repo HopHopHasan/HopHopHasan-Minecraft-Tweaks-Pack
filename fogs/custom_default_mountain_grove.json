@@ -1,0 +1,22 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:fog_settings": {
+      "description": {
+        "identifier": "betterfog:custom_fog_mountain_grove"
+      },
+      "distance": {
+      "air": {
+        "fog_start": 0.5,
+        "fog_end": 0.8,
+        "fog_color": "#92FCE5", 
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 50.0,
+        "fog_color": "#44D5F5",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

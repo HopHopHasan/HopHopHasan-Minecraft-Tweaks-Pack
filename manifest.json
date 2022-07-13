@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This pack contains several tweaks to the game. To see all the changes and relevant credits, please visit: https://hophophasan.tk/downloads",
+        "name": "HopHopHasan Tweaks",
+        "uuid": "6c67ab90-d4bd-4b7a-98ce-c687cfab35da",
+        "version": [1, 0, 4],
+        "min_engine_version": [ 1, 17, 40 ]
+    },
+    "modules": [
+        {
+            "description": "This pack contains several tweaks to the game. To see all the changes and relevant credits, please visit: https://hophophasan.tk/downloads",
+            "type": "resources",
+            "uuid": "0ca4dd6f-0245-4590-aad0-29d6885d881f",
+            "version": [1, 0, 4]
+        }
+    ]
+}
